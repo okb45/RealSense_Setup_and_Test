@@ -24,7 +24,7 @@ How to setup Realsense Library:
   If using Windows:
     Run these commands and edit the file path based on the path to vcpkg:
   
-      cmake -B build -S, -DCMAKE_TOOLCHAIN_FILE=C:/path-to-vcpkg/scripts/buildsystems/vcpkg.cmake
+      cmake -B build -S. -DCMAKE_TOOLCHAIN_FILE=C:/path-to-vcpkg/scripts/buildsystems/vcpkg.cmake
       cmake --build build --config Release
   
   Now, to run the depth sense test, make sure the RealSense camera is connected to the machine and run:
