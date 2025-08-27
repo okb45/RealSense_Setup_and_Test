@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Owen\OneDrive\Documents\RIT\senior design test\MyRealsenseApp\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Owen\OneDrive\Documents\RIT\senior design test\MyRealsenseApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1331FA56-DA3D-37A3-87A6-C853BB6147E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
