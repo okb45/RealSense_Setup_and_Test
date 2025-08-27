@@ -1,3 +1,0 @@
-C:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI/build/CMakeFiles/MyRealsenseAppwithROI.dir
-C:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI/build/CMakeFiles/ZERO_CHECK.dir
