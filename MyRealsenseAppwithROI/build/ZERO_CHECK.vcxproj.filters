@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Owen\OneDrive\Documents\RIT\senior design test\MyRealsenseAppwithROI\build\CMakeFiles\77d97b7f3d9d6d1dd6a2517bbd337a13\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F3B2E622-090B-3F44-8201-CABBF9C636B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

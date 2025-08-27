@@ -1,0 +1,10 @@
+^C:\USERS\OWEN\ONEDRIVE\DOCUMENTS\RIT\SENIOR DESIGN TEST\MYREALSENSEAPPWITHROI\BUILD\CMAKEFILES\77D97B7F3D9D6D1DD6A2517BBD337A13\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI" "-BC:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Owen/OneDrive/Documents/RIT/senior design test/MyRealsenseAppwithROI/build/MyRealsenseAppwithROI.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
